@@ -1,1 +1,1 @@
-console.log("코알라 만세!");
+console.log("코알라 인력사무소!");
